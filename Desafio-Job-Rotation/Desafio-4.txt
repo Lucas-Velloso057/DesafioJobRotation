@@ -1,0 +1,13 @@
+Carro = {
+  velocidade : 110 km/h,
+  saida: "ribeirão",
+  pedágio: não
+}
+
+Caminhão = {
+  velocidade : 80 km/h,
+  saida: "franca",
+  pedágio: 10min
+}
+
+Resposta = No momento do cruzamento eles estarão à mesma distância da cidade de Ribeirão Preto, pois estão um do lado do outro.

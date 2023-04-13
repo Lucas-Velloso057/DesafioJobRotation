@@ -1,0 +1,5 @@
+3) a) A resposta é 9;
+   b) A resposta é 128;
+   c) A resposta é 49;
+   d) A resposta é 13;
+   e) A resposta é 200;
